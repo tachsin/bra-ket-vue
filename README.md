@@ -9,7 +9,7 @@ An interactive visualizer for quantum states and matrices.
 
 * Developed by [Quantum Flytrap](https://quantumflytrap.com): [Piotr Migdał](https://p.migdal.pl/) (quantum physics & programming) and [Klem Jankiewicz](http://jankiewiczstudio.com/) (UX & design) from [Quantum Flytrap](https://quantumflytrap.com/).
 * Based on [Quantum Tensors](https://www.npmjs.com/package/quantum-tensors) numerics library, developed at the [Centre for Quantum Technologies, National University of Singapore](https://www.quantumlah.org/).
-* It is being useed in [Quantum Gamne](https://quantumgame.io) and [Virtual Lab by Quantum Flytrap](https://quantumflytrap.com/).
+* It is being used in [Quantum Gamne](https://quantumgame.io) and [Virtual Lab by Quantum Flytrap](https://quantumflytrap.com/).
 * Supported by the [Unitary Fund](https://unitary.fund/).
 
 For more details, see our preprint:
